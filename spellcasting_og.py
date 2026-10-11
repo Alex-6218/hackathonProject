@@ -1,7 +1,9 @@
+import os, base64, time, asyncio, threading, cv2, re
 import mediapipe as mp
 from mediapipe.tasks import python
 from mediapipe.tasks.python import vision
 
+import sounddevice as sd
 from elevenlabs import (
     AudioFormat,
     CommitStrategy,
@@ -9,29 +11,51 @@ from elevenlabs import (
     RealtimeAudioOptions,
     RealtimeEvents,
 )
-import sounddevice as sd
-from scipy.io import wavfile
 
 from dotenv import load_dotenv
-
-import os, base64, time, asyncio, threading, cv2, queue, re
-
 load_dotenv() 
+
+DEBUG = False
+#COOL ASS SPELLCASTING STUFF
+SPELLS = {
+    "Open_Palm":   {"name": "FIREBALL",      "word": "fireball"},
+    "Closed_Fist": {"name": "CREATION",      "word": "creation"},
+    "Pointing_Up": {"name": "TELEPORT",      "word": "teleport"},
+    "ILoveYou":    {"name": "SUMMON UNDEAD", "word": "summon"},
+}
+POSE_WINDOW = 1.0   # seconds a pose stays valid
+WORD_WINDOW = 1.5   # seconds a heard word stays valid
+COOLDOWN = 1.5      # seconds between casts
+
+MIN_SCORE = 0.6
+HOLD_TIME = 0.25
+SAME_WORD_LOCKOUT = 2.5
+
+pose_since = {}          # pose -> when it became continuously visible
+pose_ready = {}          # pose -> last time it was held steadily
+last_cast_word = ""
+
+pose_seen = {}
+last_cast = -999.0
+last_ts = -1
+
+def cast(spell):
+    print(f"CASTING {spell['name']}!")
 
 #TRANSCRIPTION STUFF
 last_word = ""
 last_word_t = 0.0
+heard = ("", 0.0)  # (word, time)
 
 SAMPLE_RATE = 48000
 BLOCKSIZE = 4800  # 100 ms per block
 
 def clean(text):
-    words = text.strip().split()
-    return words[-1].strip(".,!?;:").lower() if words else ""
+    words = re.findall(r"[a-z]+", text.lower())
+    return words[-1] if words else ""
 
 
 async def transcribe_forever():
-    global last_word
     loop = asyncio.get_running_loop()
     audio_q = asyncio.Queue()          # mic thread -> this loop
     session_ready = asyncio.Event()
@@ -55,11 +79,13 @@ async def transcribe_forever():
         session_ready.set()
 
     def on_transcript(data):
-        global last_word, last_word_t
-        word = clean(data.get("text", ""))
+        global heard
+        raw = data.get("text", "")
+        with open("stt_log.txt", "a") as f:           # raw log for debugging
+            f.write(f"{time.time():.2f} {raw!r}\n")
+        word = clean(raw)
         if word:
-            last_word = word
-            last_word_t = time.monotonic()
+            heard = (word, time.monotonic())
     
     def on_error(error):
         print(f"[stt error] {error}")
@@ -105,7 +131,7 @@ def start_transcriber():
  
 start_transcriber()
  
-
+start = time.monotonic()
 
 
 #GESTURE STUFF
@@ -124,28 +150,11 @@ options = vision.GestureRecognizerOptions(
     base_options=python.BaseOptions(model_asset_path='gesture_recognizer.task'),
     running_mode=vision.RunningMode.VIDEO,
     num_hands=1,
-    min_hand_detection_confidence=0.5,
-    min_tracking_confidence=0.5,
+    min_hand_detection_confidence=MIN_SCORE,
+    min_tracking_confidence=MIN_SCORE,
 )
 recognizer = vision.GestureRecognizer.create_from_options(options)
 
-#COOL ASS SPELLCASTING STUFF
-SPELLS = {
-    "Open_Palm":   {"name": "FIREBALL",      "word": "fireball"},
-    "Closed_Fist": {"name": "CREATION",      "word": "creation"},
-    "Pointing_Up": {"name": "TELEPORT",      "word": "teleport"},
-    "ILoveYou":    {"name": "SUMMON UNDEAD", "word": "summon"},
-}
-POSE_WINDOW = 1.0   # seconds a pose stays valid
-WORD_WINDOW = 1.5   # seconds a heard word stays valid
-COOLDOWN = 1.5      # seconds between casts
-
-pose_seen = {}
-last_cast = -999.0
-
-start = time.monotonic()
-last_ts = -1
-last_name = None
 
 #main loop
 running = True
@@ -171,41 +180,50 @@ while running:
     if result.gestures:
         top = result.gestures[0][0]
         hand = result.handedness[0][0].category_name
-        label = f"{top.category_name} ({hand} hand, {top.score:.2f})"
         name = top.category_name
     else:
-        label, name = "No hand", "No hand"
+        name = "No hand"
 
-    if name in SPELLS:
-        pose_seen[name] = now
+    word, word_t = heard                       # one snapshot per frame
+    score = top.score if result.gestures else 0.0
 
+    current = name if (name in SPELLS and score >= MIN_SCORE) else None
+    for p in list(pose_since):
+        if p != current:
+            del pose_since[p]
+    if current:
+        pose_since.setdefault(current, now)
+        if now - pose_since[current] >= HOLD_TIME:
+            pose_ready[current] = now
+
+    word_fresh = now - word_t < WORD_WINDOW
     for pose, spell in SPELLS.items():
-        pose_fresh = now - pose_seen.get(pose, -999.0) < POSE_WINDOW
-        word_fresh = now - last_word_t < WORD_WINDOW
-        if (pose_fresh and word_fresh
-            and last_word == spell["word"]
-            and now - last_cast > COOLDOWN):
-            print(f"CASTING {spell['name']}")
-            last_cast = now
-            last_word = ""      # consume the word so it can't fire twice
+        if (now - pose_ready.get(pose, -999.0) < POSE_WINDOW
+                and word_fresh
+                and word == spell["word"]
+                and now - last_cast > COOLDOWN
+                and not (word == last_cast_word
+                         and now - last_cast < SAME_WORD_LOCKOUT)):
+            cast(spell)
+            last_cast, last_cast_word = now, word
+            heard = ("", 0.0)
             break
-#debug print every 0.5s
-    if now - last_debug > 0.5:
-        last_debug = now
-        spell = SPELLS.get(name)
-        print(f"pose={name} word={last_word!r} "
-            f"word_age={now - last_word_t:.1f}s "
-            f"match={bool(spell) and last_word == spell['word']} "
-            f"cooldown_ok={now - last_cast > COOLDOWN} "
-            f"pose_fresh={now - pose_seen.get(name, -999.0) < POSE_WINDOW}")
-
-#debug display
-    cv2.putText(frame, f"pose: {name}", (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.8, (0, 255, 0), 2)
-    cv2.putText(frame, f"heard: {last_word}", (10, 60), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 255, 255), 2)
-    out.write(frame)
-    cv2.imshow('Camera', frame)
-
-    key = cv2.waitKey(1) & 0xFF            
+#debug stuff
+    if DEBUG:
+        cv2.flip(frame, 1)  # mirror image
+        cv2.putText(frame, f"pose: {name}", (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.8, (0, 255, 0), 2)
+        cv2.putText(frame, f"heard: {last_word}", (10, 60), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 255, 255), 2)
+        out.write(frame)
+        cv2.imshow('Camera', frame)
+        if now - last_debug > 0.5:
+            last_debug = now
+            spell = SPELLS.get(name)
+            print(f"pose={name} word={last_word!r} "
+                f"word_age={now - last_word_t:.1f}s "
+                f"match={bool(spell) and last_word == spell['word']} "
+                f"cooldown_ok={now - last_cast > COOLDOWN} "
+                f"pose_fresh={now - pose_seen.get(name, -999.0) < POSE_WINDOW}")
+    key = cv2.waitKey(1) & 0xFF 
     if key == ord('q'):
         running = False
 
