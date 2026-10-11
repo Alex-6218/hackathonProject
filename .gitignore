@@ -1,5 +1,5 @@
 tiger-cloud-hackathon-credentials.env
-output.mp4
+./output.mp4
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
