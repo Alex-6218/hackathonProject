@@ -1708,3 +1708,507 @@
 1791720388.74 'Fireball. Oké.'
 1791720389.85 'Fireball. Okay. Thanks.'
 1791720390.70 'Fireball. Okay. There we go.'
+1791725870.41 'Test.'
+1791725871.25 'Тест.'
+1791725872.48 'Окей.'
+1791725873.02 'Окей.'
+1791725885.90 'Teleport.'
+1791725886.91 'Teleport.'
+1791725888.11 'Teleport.'
+1791725889.11 'Teleport.'
+1791725889.41 'Teleport.'
+1791725890.91 'Teleport.'
+1791725891.61 'Teleport.'
+1791725892.01 'Teleport.'
+1791725894.63 'Teleport.'
+1791725895.71 'Teleport.'
+1791725896.31 'Teleport.'
+1791725897.47 'Teleport.'
+1791725898.49 'Teleport.'
+1791725898.64 'Teleport.'
+1791725902.31 'Fireball.'
+1791725903.30 'Fireball.'
+1791725904.51 'Fireball.'
+1791725905.51 'Fireball.'
+1791725906.12 'Fireball.'
+1791725907.42 'Fireball.'
+1791725908.33 'Fireball.'
+1791725908.93 'Fireball.'
+1791725910.17 'Teleport.'
+1791725911.19 'Teleport.'
+1791725911.60 'Teleport.'
+1791725912.21 'Evet.'
+1791725913.21 'Fireball.'
+1791725913.95 'Fireball.'
+1791725916.21 'Teleport.'
+1791725917.21 'Teleport.'
+1791725918.41 'Fala.'
+1791725919.41 'Fireball.'
+1791725919.94 'Fireball.'
+1791725923.07 'Teleport.'
+1791725924.10 'Teleport.'
+1791725924.30 'Teleport.'
+1791725925.13 'Sim.'
+1791725926.11 'Teleport.'
+1791725926.86 'Teleport.'
+1791725935.77 'Create.'
+1791725936.48 'Create.'
+1791725939.81 'Er, construct.'
+1791725940.80 'Or construct.'
+1791725941.34 'Or construct.'
+1791725943.91 'Construct.'
+1791725944.61 'Construct. Teleport.'
+1791725945.62 'Construct. Teleport.'
+1791725945.80 'Construct. Teleport.'
+1791725947.43 'Teleport.'
+1791725948.48 'Teleport.'
+1791725948.63 'Teleport.'
+1791725950.31 'Teleport.'
+1791725951.26 'Teleport.'
+1791725951.63 'Teleport.'
+1791725953.39 'Kontrol.'
+1791725954.10 'Construct.'
+1791725954.93 'Construct.'
+1791725955.11 'Dagje.'
+1791725956.13 'Construct.'
+1791725957.76 'Construct. Construct.'
+1791725957.83 'Construct.'
+1791725959.84 'Construct.'
+1791725960.84 'Construct.'
+1791725962.08 'Teleport.'
+1791725963.16 'Teleport.'
+1791725965.11 'Construct.'
+1791725965.98 'Construct.'
+1791725966.18 'Construct.'
+1791725968.01 'Construct.'
+1791725969.01 'Construct.'
+1791725969.82 'Construct. This is the most funny key one, by the way.'
+1791725970.82 'Construct. This is the most finicky one. Mm-hmm.'
+1791725971.83 'Construct. This is the most finicky one. Mm-hmm. Construct.'
+1791725972.65 'Construct. This is the most finicky one. Mm-hmm. Construct. Mm-hmm.'
+1791725973.91 'Construct. This is the most finicky one. Construct. Construct.'
+1791725974.68 'Construct. This is the most finicky one. Construct. Construct. There we go.'
+1791725975.66 'Construct. This is the most finicky one. Construct. Construct. There we go.'
+1791725976.71 'Construct. This is the most finicky one. Construct. Construct. There we go. Construct.'
+1791725977.64 'Construct. This is the most finicky one. Construct. Construct. There we go. Construct.'
+1791725977.71 'Construct. This is the most finicky one. Construct. Construct. There we go. Construct.'
+1791725979.51 'Construct. Construct.'
+1791725980.71 'Okay. Construct.'
+1791725980.91 'Okay. Construct.'
+1791725983.31 'Teleport.'
+1791725984.16 'Teleport.'
+1791725985.43 'Construct.'
+1791725986.25 'Construct.'
+1791725986.64 'Construct.'
+1791725988.30 'Construct.'
+1791725989.11 'Construct.'
+1791725989.46 'Construct.'
+1791725991.07 'Construct.'
+1791725992.09 'Construct.'
+1791725992.91 'Construct. Teleport.'
+1791725993.91 'Construct. Teleport.'
+1791725994.45 'Construct. Teleport.'
+1791725996.90 'Teleport.'
+1791725997.65 'Teleport.'
+1791725998.86 'Teleport.'
+1791725999.90 'Teleport.'
+1791726000.79 'Teleport. Construct.'
+1791726001.75 'Teleport. Construct.'
+1791726001.91 'Teleport. Construct.'
+1791726003.81 'Construct.'
+1791726004.48 'Construct.'
+1791726005.56 'Teleport.'
+1791726006.57 'Teleport.'
+1791726007.21 'Teleport.'
+1791726007.63 'Fireball.'
+1791726008.37 'Fireball.'
+1791726008.95 'Fireball.'
+1791726012.46 'Teleport.'
+1791726013.26 'Teleport.'
+1791726013.72 'Teleport.'
+1791726015.33 'Teleport.'
+1791726016.30 'Teleport.'
+1791726017.41 'Teleport.'
+1791726018.24 'Teleport.'
+1791726018.61 'Teleport.'
+1791726023.11 'Teleport.'
+1791726023.81 'Teleport.'
+1791726026.09 'Summon.'
+1791726027.12 'Summon. Summon Undead.'
+1791726027.91 'Summon. Summon Undead.'
+1791726028.70 'Summon. Summon Undead.'
+1791726029.87 'Спасибо.'
+1791726034.92 'Teleport.'
+1791726035.72 'Teleport.'
+1791726037.76 'Teleport.'
+1791726038.71 'Teleport.'
+1791726040.91 'Teleport.'
+1791726041.81 'Teleport.'
+1791726042.17 'Teleport.'
+1791726043.80 "Doesn't sound like a word."
+1791726044.81 "Doesn't sound like a word anymore."
+1791726045.61 "Doesn't sound like a word anymore."
+1791726046.62 "Doesn't sound like a word anymore. Teleport."
+1791726047.41 "Doesn't sound like a word anymore. Teleport."
+1791726048.61 'Construct.'
+1791726049.62 'Construct.'
+1791726050.21 'Construct.'
+1791726050.63 'Sim.'
+1791726051.51 'Teleport.'
+1791726052.31 'Teleport.'
+1791726053.51 'Kendin çıkart.'
+1791726054.51 'Construct.'
+1791726054.82 'Construct.'
+1791726056.50 "Can't speak."
+1791726057.61 'Can I instruct?'
+1791726058.11 'Can you instruct?'
+1791726061.31 'Construct.'
+1791726062.21 'Construct.'
+1791726062.52 'Construct.'
+1791726065.00 'Teleport.'
+1791726066.01 'Teleport.'
+1791726066.42 'Teleport.'
+1791726068.09 'Summon undead.'
+1791726069.11 'Summon Undead.'
+1791726069.40 'Summon undead.'
+1791726070.91 'Телепортировать.'
+1791726071.81 'Teleport.'
+1791726072.42 'Teleport.'
+1791726073.82 'Fireball.'
+1791726074.73 'Fireball.'
+1791726074.82 'Fireball.'
+1791726078.52 'Teleport.'
+1791726079.43 'Teleport.'
+1791726080.82 'Teleport.'
+1791726081.51 'Teleport.'
+1791726082.31 'Teleport.'
+1791726083.62 'Teleport.'
+1791726084.42 'Teleport.'
+1791726084.56 'Teleport.'
+1791726087.42 'Teleport.'
+1791726120.02 ''
+1791726155.55 ''
+1791726191.12 ''
+1791726226.65 ''
+1791731100.59 ''
+1791731101.49 'はい。'
+1791731102.29 'はい。'
+1791731103.29 'Telefoon.'
+1791731104.29 '1000。'
+1791731105.29 '1000多。'
+1791731106.40 'Teleport。Teleport。'
+1791731107.19 'Teleport。Teleport。'
+1791731108.19 'Teleport。Teleport。'
+1791731108.99 'Teleport。Teleport。'
+1791731109.99 'Teleport。Teleport。'
+1791731110.99 'Teleport。Teleport。'
+1791731111.99 'Teleport。Teleport。'
+1791731113.02 'Teleport。Teleport。'
+1791731113.80 'Teleport。Teleport。'
+1791731113.98 'Teleport。Teleport。'
+1791731118.70 'Construct。'
+1791731119.59 'Construct。'
+1791731121.90 'Summon Undead。'
+1791731122.71 'So many undead。'
+1791731123.79 "Something I'm dead。"
+1791731124.73 "Something I'm dead。"
+1791731125.55 'Summon Undead。Summon Undead。'
+1791731126.58 'Summon Undead。Summon Undead。'
+1791731127.59 'Summon Undead。Summon Undead。'
+1791731128.50 'Summon Undead。Summon Undead。'
+1791731130.79 'Fireball。'
+1791731131.79 'Fireball。'
+1791731131.99 'Fireball。'
+1791731133.79 'Hello，hello！'
+1791731134.49 'Hello，hello，呃......Can you see？'
+1791731135.49 'Hello，hello，呃......if you can see in downtown we are-'
+1791731136.49 'Hello，hello，呃......if you can see in downtown，we are giving breakfast'
+1791731137.50 "Hello，hello，uh, if you can see in downtown, we are giving breakfast out. It's from-"
+1791731138.53 "Hello，hello，uh, if you can see in downtown, we are giving breakfast out. It's from the French Quarter."
+1791731139.40 "Hello，hello，uh, if you can see in downtown, we are giving breakfast out. It's from the French Quarter. So go ahead and head"
+1791731140.39 "Hello，hello，uh, if you can see in downtown, we are giving breakfast out. It's from the French Quarter. So go ahead and head to the, uh..."
+1791736126.58 '... API to, like, keep track-'
+1791736126.69 '... API to, like, keep track of the...'
+1791736127.59 '... API to, like, keep track of the... to translate your'
+1791736128.39 '... API to, like, keep track of the... to translate your audio. Um-'
+1791736129.39 '... API to, like, keep track of the... to translate your audio, um, as well as, like, uh, the-'
+1791736130.39 '... API to, like, keep track of the... to translate your audio, um, as well as, like, track hand gestures, right?'
+1791736131.49 "... API to, like, keep track of the... to translate your audio, um, as well as, like, track hand gestures so you can- It wasn't on my mind."
+1791736132.39 "... API to, like, keep track of the... to translate your audio, um, as well as, like, track hand gestures so you can- It wasn't on mine. It was so weird."
+1791736133.40 '... API to, like, keep track of the... to translate your audio, um, as well as, like, track hand gestures so you can... Yeah.'
+1791736134.16 '... API to, like, keep track of the... to translate your audio, um, as well as, like, track hand gestures so you can... Yeah.'
+1791736135.51 'Uh.'
+1791736136.49 'Uh, teleport.'
+1791736137.30 'Uh, teleport.'
+1791736137.84 'Uh, teleport.'
+1791736139.30 'А куда ты его отправишь?'
+1791736140.32 'There you go.'
+1791736141.29 'There you go. Fireball.'
+1791736142.09 'Fireball. Yeah.'
+1791736143.19 'There you go. Fireball. Yeah. So for your, like,'
+1791736144.10 'Fireball. Construct.'
+1791736145.10 'There you go. Fireball. Construct.'
+1791736146.11 'There you go. Fireball. Construct.'
+1791736146.96 'There you go. Fireball. Construct.'
+1791736147.99 'There you go. Fireball. Construct.'
+1791736148.79 'Okay. Fireball. Construct. Uh,'
+1791736149.79 'Okay. Fireball. Construct. Okay. Uh, and so you can do that,'
+1791736150.75 'Okay. Fireball. Construct. Okay. Uh, and so you can do that. Um, and I, I just have'
+1791736151.77 'Okay. Fireball. Construct. Okay. Uh, and so you can do that. Um, and I, I just have these bound to, like, hotkey'
+1791736152.89 'Okay. Fireball. Construct. Okay. Uh, and so you can do that. Um, and I, I just have these bound to, like, hotkeys for, like, easier keylogging.'
+1791736153.59 'Okay. Fireball. Construct. Okay. Uh, and so you can do that. Um, and I, I just have these bound to, like, hotkeys for, like, easier keylogging. But, um, yeah.'
+1791736154.59 'Okay. Fireball. Construct. Okay. Uh, and so you can do that. Um, and I, I just have these bound to, like, hotkeys for, like, easier keylogging. But, um...'
+1791736155.21 'Okay. Fireball. Construct. Okay. Uh, and so you can do that. Um, and I, I just have these bound to, like, hotkeys for, like, easier keylogging. But, um...'
+1791736157.49 'Oh. Oh, I, oh, yeah, I see.'
+1791736158.50 "Oh, I, oh, yeah, I'm still on this."
+1791736159.59 "Oh, I, oh, yeah, I'm still on this. So the fireball's still on?"
+1791736160.60 "Oh, I, oh, yeah, I'm still on this. So the fireball's, like, blasting the b-"
+1791736161.31 "Oh, I, oh, yeah, I'm still on this. So the fireball's, like, blasting a bit away."
+1791736162.39 "Oh, I, oh, yeah, I'm still on this. So the fireball's, like, blasting a bit away. Mm-hmm. Uh, and, like, you can do-"
+1791736163.14 "Oh, I, oh, yeah, I'm still on this. So the fireball's, like, blasting a bit away. Uh, and my torches on fire"
+1791736164.27 "Oh, I, oh, yeah, I'm still blind. So the fireball's, like, blasting a bit away. Uh, and my torch is on fire. Like, with the"
+1791736165.19 "Oh, I, oh, yeah, I'm still blind. So the fireball's, like, blasting a bit away. Uh, and my torch is on fire. Likely to come up, though."
+1791736166.29 "Oh, I, oh, yeah, I'm still blind. So the fireball's, like, blasting a bit away. Uh, and my torch is on fire. Likely to come up, but seems to"
+1791736167.29 "Oh, I, oh, yeah, I'm still blind. So the fireball's, like, blasting a bit away. Uh, and my torch is on fire. Likely to come up, but seems to be-"
+1791736168.09 "Oh, I, oh, yeah, I'm still blind. So the fireball's, like, blasting a bit away. Uh, and my torch is on fire. Likely to come up, but seems to be... Well, that's fine."
+1791736169.18 "Oh, I, oh, yeah, I'm still blind. So the fireball's, like, blasting a bit away. Uh, and my torch is on fire. Likely to come up, up, up. See if it works. Well, that's fine. Okay."
+1791736170.03 "Oh, I, oh, yeah, I'm still blind. So the fireball's, like, blasting a bit away. Uh, and my torch is on fire. Likely to come up. Well, that's fine. Okay. Protect me at the door."
+1791736170.89 "Oh, I, oh, yeah, I'm still blind. So the fireball's, like, blasting a bit away. Uh, and my torch is on fire. Likely to come up. Well, that's fine. Okay. Protect me at the door."
+1791736172.15 "Oh, I, oh, yeah, I'm still blind. So the fireball's, like, blasting a bit away. Uh, and my torch is on fire. Likely to come up. Well, that's fine. Okay. Protect me at the door. Um..."
+1791736172.88 "Oh, I, oh, yeah, I'm still blind. So the fireball's, like, blasting a bit away. Uh, and my torch is on fire. Likely to come up. Well, that's fine. Okay. Protect me at the door. Um. Yeah. For, like,"
+1791736173.88 "Oh, I, oh, yeah, I'm still blind. So the fireball's, like, blasting a bit away. Uh, and my torch is on fire. Likely to come up. Well, that's fine. Okay. Protect me at the door. Um... Yeah."
+1791736174.85 "Oh, I, oh, yeah, I'm still blind. So the fireball's, like, blasting a bit away. Uh, and my torch is on fire. Which activates the door. Um, use construct to,"
+1791736175.69 "Oh, I, oh, yeah, I'm still blind. So the fireball's, like, blasting a bit away. Uh, and my torch is on fire. Which activates the door. Um, use construct to, like,"
+1791736176.72 "Oh, I, oh, yeah, I'm still blind. So the fireball's, like, blasting a bit away. Uh, and my torch is on fire. Which activates the door. Um, use construct to, like, get up to higher places."
+1791736177.68 "Oh, I, oh, yeah, I'm still blind. So the fireball's, like, blasting a bit away. Uh, and my torch is on fire. Which activates the door. Um, use construct to, like, get up to higher places. Mm-hmm."
+1791736178.29 "Oh, I, oh, yeah, I'm still blind. So the fireball's, like, blasting a bit away. Uh, and my torch is on fire. Which activates the door. Um, use construct to, like, get up to higher places."
+1791736180.49 "Okay. You don't"
+1791736181.57 "Okay. You don't wanna try and pull"
+1791736182.50 "Okay. You don't want to try and pull, but they have some"
+1791736183.59 "Okay. You don't want to try and pull, but they have some basic... You see"
+1791736184.29 "Okay. You don't want to try and pull, but they have some basic... You see how this light's"
+1791736185.39 "Okay. You don't want to try and pull, but they have some basic... You see how this light ages? You have"
+1791736186.52 "Okay. You don't want to try and pull, but they have some basic... You see how this light ages? You have a light pass through this."
+1791736187.40 "Okay. You don't want to try and pull, but they have some basic... You see how this light ages? You have a light that's, there's like 50 lights in here."
+1791736188.21 "Okay. You don't want to try and pull, but they have some basic... You see how it has those light gauges? You have a light gauge, and there's, like, 50 light gauges."
+1791736189.15 "Okay. You don't want to try and pull, but they have some basic... You see how it has those light gauges? You have a light gauge, and there's, like, 50 light gauges."
+1791736191.49 'Uh...'
+1791736192.21 'Uh, and then- Okay. So'
+1791736193.26 'Uh, and then- Okay. So then do you, do you want to choose'
+1791736194.27 'Uh, and then- Okay. So then do you, do you want to choose the play button at that exact moment?'
+1791736195.13 'Uh, and then- Okay. So then do you, do you want to choose the play button, have that interactive, and then put the'
+1791736196.09 'Uh, and then- Okay. So then do you, do you want to choose the play button, have that interactive, and then you can play it later?'
+1791736197.09 "Uh, and then- Okay. So then do you, do you want to choose the play button, have that interactive, and then you can play it later? There's, like, pressure plates, and there's, like, a-"
+1791736198.06 "Uh, and then- Okay. So then do you, do you want to choose the play button, have that interactive, and then you can play it later? There's, like, pressure plates, and then these guys can"
+1791736199.08 "Uh, and then- Okay. So then do you, do you want to choose the play button, have that interactive, and then you can play it later? There's, like, pressure plates, and then these guys can go over and activate them."
+1791736199.89 "Uh, and then- Okay. So then do you, do you want to choose the play button, have that interactive, and then you can play it later? There's, like, pressure plates, and then these guys can go over and activate them. Mm-hmm."
+1791736200.88 "Uh, and then- Okay. So then do you, do you want to choose the play button, have that interactive, and then you can play it later? There's, like, pressure plates, and then these guys can go over and activate them. Mm-hmm."
+1791736201.03 "Uh, and then- Okay. So then do you, do you want to choose the play button, have that interactive, and then you can play it later? There's, like, pressure plates, and then these guys can go over and activate them. Mm-hmm."
+1791736203.90 'Correct.'
+1791736204.70 'Correct.'
+1791736205.78 "Correct. Right. It's user"
+1791736206.56 "Correct. Right. It's used as, as a trip"
+1791736207.58 "Correct. Right. It's used as, as a trigger, for example,"
+1791736208.56 "Correct. Right. It's used as, as a trigger, an example of something like that."
+1791736209.59 "Correct. Right. It's used as, as a trigger, an example of something like- And then I'd like a level up."
+1791736210.74 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so then you just, like, go a little bit higher"
+1791736211.38 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um,"
+1791736212.39 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so then you just, like, go building. But, um, the main thing is just, like, to,"
+1791736213.39 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so then you just, like, go back. But, um, the main thing is just, like, to showcase this, you know,"
+1791736214.51 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit more, I think. But, um, the main thing is just, like, to showcase the technology of using"
+1791736215.40 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um- As long as"
+1791736216.21 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like,"
+1791736217.29 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as"
+1791736218.29 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection, as well as, um..."
+1791736219.10 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection, as well as, um,"
+1791736220.10 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection, as well as, um, speech to text."
+1791736220.91 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um..."
+1791736221.99 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um- Uh, but"
+1791736222.96 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um, and then-"
+1791736223.96 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um, and then it uses"
+1791736224.99 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um, and then it uses... Let me see how that works."
+1791736225.99 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um, and then it uses... It's like a word processor."
+1791736226.89 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um, and then it uses... Let me see how it looks. It's like word recognition."
+1791736227.85 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um, and then it uses... Let me see how it works. It's like word recognition. Um-"
+1791736228.67 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um, and then it uses... Let me see how it works. It's like word recognition. Um, like"
+1791736229.69 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um, and then it uses... Let me see how it looks. It's like word recognition. Um, like Godot is, like, the main"
+1791736230.69 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um, and then it uses... Let me see how it looks. It's like word recognition. Um, like Godot is, like, the main, like, game engine."
+1791736231.75 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um, and then it uses... Let me see how it looks. It's like word recognition. Um, like Godot is, like, the main, like, game engine. Yes. And he's already in-"
+1791736232.69 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um, and then it uses... Let me see how it looks. It's like word recognition. Um, like Godot is, like, the main, like, game engine. Um, he"
+1791736233.49 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um, and then it uses... Let me see how it looks. It's like word recognition. Um, like Godot is, like, the main, like, game engine. Um, using MediaPipe for"
+1791736234.59 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um, and then it uses... Let me see how it looks. It's like word recognition. Um, like Godot is, like, the main, like, game engine. Um, using MediaPipe for the gestures."
+1791736235.59 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um, and then it uses... Let me see how it looks. It's like word recognition. Um, like Godot is, like, the main, like, game engine. Um, using MediaPipe for the gestures."
+1791736236.36 "Correct. Right. It's used as, as a trigger, an example of something like- And then I, like, level up, so I can use it a little bit better. But, um, the main thing is just, like, to showcase the technology of using, um, like, AI, like, gesture detection as well as, um, speech to text. Yeah. Um, and then it uses... Let me see how it looks. It's like word recognition. Um, like Godot is, like, the main, like, game engine. Um, using MediaPipe for the gestures. Uh, I'm trying to"
+1791736238.39 'connect a, like, a wand, so you'
+1791736239.39 "connect a, like, a wand, so you don't have to use, like, a mouse at all."
+1791736240.39 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use,"
+1791736241.18 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick"
+1791736242.19 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then-"
+1791736243.10 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick basically. Yeah. And then it casts, like, your spells from your wand. Oh, that's cool. Yeah."
+1791736244.14 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there."
+1791736245.16 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. It's kind"
+1791736245.98 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right"
+1791736247.09 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why."
+1791736247.99 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It ran"
+1791736248.99 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working."
+1791736249.79 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere."
+1791736250.80 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere, and then- That's good."
+1791736251.80 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke"
+1791736252.62 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that."
+1791736253.62 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just-"
+1791736254.78 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. Okay. So I guess it's just operating on its own time right now."
+1791736255.79 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time."
+1791736256.75 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, uh"
+1791736257.45 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, um, this is a"
+1791736258.47 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, um, this is a accelerometer, so I was hoping"
+1791736259.49 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, um, this is a accelerometer, so I was hoping that I could hold, like, a wand."
+1791736260.29 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, um, this is a accelerometer, so I was hoping that I could hold it like this, this, and you, like,"
+1791736261.29 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, um, this is a accelerometer, so I was hoping that I could hold it like this, this, and you, like, kind of tell me where you're going."
+1791736262.30 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, um, this is a accelerometer, so I was hoping that I could hold it like this, this, and you, like, kind of tell me where you're going, where you're looking at."
+1791736263.31 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, um, this is a accelerometer, so I was hoping that I could hold it like this, this, and you, like, kind of tell me where you're going, where you're looking at. But, um..."
+1791736264.39 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, um, this is a accelerometer, so I was hoping that I could hold it like this, this, and you, like, kind of tell me where you're going, where you're looking at. But, um..."
+1791736265.29 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, um, this is a accelerometer, so I was hoping that I could hold it like this, this, and you, like, kind of tell me where you're going, where you're looking at. But, um, it, it started working"
+1791736266.25 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, um, this is a accelerometer, so I was hoping that I could hold it like this, this, and you, like, kind of tell me where you're going, where you're looking at. But, um, it, it started working for a second, but..."
+1791736267.17 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, um, this is a accelerometer, so I was hoping that I could hold it like this, this, and you, like, kind of tell me where you're going, where you're looking at. But, um, it, it started working for a second, but then it-"
+1791736268.29 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, um, this is a accelerometer, so I was hoping that I could hold it like this, this, and you, like, kind of tell me where you're going, where you're looking at. But, um, it, it started working for a second, but then it, it broke itself."
+1791736269.19 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, um, this is a accelerometer, so I was hoping that I could hold it like this, this, and you, like, kind of tell me where you're going, where you're looking at. But, um, it, it started working for a second, but then it, it broke itself."
+1791736270.09 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, um, this is a accelerometer, so I was hoping that I could hold it like this, this, and you, like, kind of tell me where you're going, where you're looking at. But, um, it, it started working for a second, but then it, it broke itself. No, it's not that. I looked at the tool again, dude. Appreciate you, man."
+1791736271.08 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, um, this is a accelerometer, so I was hoping that I could hold it like this, this, and you, like, kind of tell me where you're going, where you're looking at. But, um, it, it started working for a second, but then it, it broke itself. All right. I'll have to get to it again, dude. Nice. Appreciate you, man. Appreciate it."
+1791736271.85 "connect a, like, a wand, so you don't have to use, like, a mouse at all. Oh, yeah. And you can just use, like, this as, like, a joystick, basically. And then it casts, like, your spells from there. Th- it's kind of unreliable right now. I don't know why. It randomly started working out of nowhere and then, and then broke itself after that. So I guess it's just operating on its own time. Yeah. But, like, um, this is a accelerometer, so I was hoping that I could hold it like this, this, and you, like, kind of tell me where you're going, where you're looking at. But, um, it, it started working for a second, but then it, it broke itself. Man, I like your tutorial, man. Dude, nice. Appreciate you, man. That's so, that's cool."
+1791736272.89 'Thank you.'
+1791736273.90 'Thank you. I, I love any sort of interactive stuff.'
+1791736274.91 "Thank you. I, I love Hennies' games, so that's-"
+1791736275.98 "Thank you. I, I love Hennies' games, so that's- Yeah. ... pretty cool."
+1791736276.79 "Thank you. I, I love Hennies' games, so that's- Yeah. So we should do, like, a test run."
+1791736277.79 "Thank you. I, I love Henny's games, so that's- Yeah. We should do, like, a test run to show off the interface."
+1791736278.74 "Thank you. I, I love Hennies' games, so that's- Yeah. So, we could do, like, a test run to show off the entire thing. It's not tested."
+1791736279.67 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary."
+1791736280.64 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary."
+1791736281.48 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And you would have-"
+1791736282.49 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And you would have the LLM."
+1791736283.57 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And you would have the LLM project. I mean,"
+1791736284.48 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And you would have the LLM project, and I can still use your guide."
+1791736285.59 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just, like, play"
+1791736286.28 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just, like, play."
+1791736287.28 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we're"
+1791736288.29 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into the game."
+1791736289.29 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into the game. That"
+1791736290.29 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into the game. That's how I usually work."
+1791736291.20 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into the game. Like, I'm using, like, Rush Hot, and"
+1791736292.28 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game, like, brush off, and then we can, like, brush off and-"
+1791736293.08 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game. Like, I, I, I could, like, rush off and, like, it's the best way to build a game."
+1791736294.08 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game. Like, we could do, like, a rush off, and it's the best way to get money. If, if you have, if you have a game-"
+1791736295.08 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game. Like, we could do, like, a rush off and stuff. It's the best way to get money. If, if you have the money, it's actually a"
+1791736296.09 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game. Like, we could do, like, a rush off and stuff. It's the best way to get money. If, if you have, if you have a million, actually, 10K players on average, you can make a million dollars in a year."
+1791736296.98 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game. Like, we could do, like, a rush off and stuff. It's the best way to get money. If, if you have, if you have a million, actually, 10K players on average, you can do it in six figures."
+1791736297.79 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game. Like, we could do, like, a rush off and stuff. It's the best way to get money. If, if you have, if you have a million, actually, 10K players on average, you can do this in six years. Like, like, not that many."
+1791736298.99 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game. Like, we could do, like, a rush off and stuff. It's the best way to get money. If, if you have, if you have a million, actually, 10K players on average, you can do this in six years. Like, like, not that long, right?"
+1791736300.00 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game. Like, we could do, like, a rush off and stuff. It's the best way to get money. If, if you have, if you have a million, it's actually 10K a day, so on average, you can do it in six figures. Like, like, not that long, right? Oh, yeah."
+1791736300.60 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game. Like, we could do, like, a rush off and stuff. It's the best way to get money. If, if you have, if you have a million, it's actually 10K a day, so on average, you can do it in six figures. Like, like, not that long, right? Oh, yeah, I mean, I lost that."
+1791736301.71 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game. Like, we could do, like, a rush off and stuff. It's the best way to get money. If, if you have, if you have a million, it's actually 10K a day, so on average, you can do it in six figures. Like, like, not that long, right? Oh, yeah, I mean, I lost that. But, uh, I don't know."
+1791736302.70 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game. Like, we could do, like, a rush off and stuff. It's the best way to get money. If, if you have, if you have a million, it's actually 10K a day, so on average, you can do it in six figures. Like, like, not that long, right? Oh, yeah, I mean, I lost that. But, uh, I don't know. I, I, I don't know."
+1791736303.78 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game. Like, we could do, like, a rush off and stuff. It's the best way to get money. If, if you have, if you have a million, it's actually 10K a day, so on average, you can do it in six figures. Like, like, not that long, right? Oh, yeah, I mean, I don't know. I don't know. I don't know. I don't know. Especially with ads."
+1791736304.65 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game. Like, we could do, like, a rush off and stuff. It's the best way to get money. If, if you have, if you have a million, it's actually 10K a day, so on average, you can do it in six figures. Like, like, not that long, right? Oh, yeah, I mean, I don't know. I don't know. I don't know. I don't know. Especially with Astro. Holy shit."
+1791736305.47 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game. Like, we could do, like, a rush off and stuff. It's the best way to get money. If, if you have, if you have a million, it's actually 10K a day, so on average, you can do it in six figures. Like, like, not that long, right? Oh, yeah, I mean, I don't know. I don't know. I don't know. I don't know. Especially with Astro, holy fuck, man. Mm-hmm."
+1791736306.48 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game. Like, we could do, like, a rush off and stuff. It's the best way to get money. If, if you have, if you have a million, it's actually 10K a day, so on average, you can do it in six figures. Like, like, not that long, right? Oh, yeah, I mean, I don't know. I don't know. I don't know. I don't know. Especially with Astro, holy fuck, man."
+1791736306.79 "Thank you. I, I love Hennies' games, so that's- Yeah. But we could do, like, a test run to show off the entire thing. It's not necessary. And we would have the LLM project, and we could just, uh, just type in, like, the text we want to make into a game. Like, we could do, like, a rush off and stuff. It's the best way to get money. If, if you have, if you have a million, it's actually 10K a day, so on average, you can do it in six figures. Like, like, not that long, right? Oh, yeah, I mean, I don't know. I don't know. I don't know. I don't know. Especially with Astro, holy fuck, man."
+1791736309.46 'Dude, have you ever seen how, like-'
+1791736310.32 'Dude, have you ever seen how, like, how, like, they got'
+1791736311.28 'Dude, have you ever seen how, like, how, like, AI is actually being used for good'
+1791736312.28 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring"
+1791736313.28 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, targeting, like, every bot"
+1791736314.28 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer- No, no, no, no, no."
+1791736315.08 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer- No, no, no, that's, like,"
+1791736316.18 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's,"
+1791736317.18 'Dude, have you ever seen how, like, how,'
+1791736317.99 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's,"
+1791736319.19 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that"
+1791736320.00 'Dude, have you ever seen how, like, how,'
+1791736321.09 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's,"
+1791736321.79 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that"
+1791736322.80 'Dude, have you ever seen how, like, how,'
+1791736323.80 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's,"
+1791736324.82 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that"
+1791736325.95 'Dude, have you ever seen how, like, how,'
+1791736326.97 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's,"
+1791736327.78 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that"
+1791736328.78 'Dude, have you ever seen how, like, how,'
+1791736329.58 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's,"
+1791736330.56 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that"
+1791736331.58 'Dude, have you ever seen how, like, how,'
+1791736332.58 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's,"
+1791736333.58 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that"
+1791736334.38 'Dude, have you ever seen how, like, how,'
+1791736335.38 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's,"
+1791736336.38 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that"
+1791736337.30 'Dude, have you ever seen how, like, how,'
+1791736338.24 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's,"
+1791736339.26 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that"
+1791736340.19 'Dude, have you ever seen how, like, how,'
+1791736341.28 "Dude, have you ever seen how, like, how, like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world. No, no, no, that's, like, that's, like, that's,"
+1791736342.08 'Dude, have you ever seen how, like, how,'
+1791736342.95 "like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer."
+1791736343.97 "like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer."
+1791736344.98 "like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer."
+1791736345.98 "like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer."
+1791736346.89 "like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer."
+1791736347.79 "like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world."
+1791736348.78 "like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer."
+1791736349.89 "like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer. No, no, no, yeah, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like,"
+1791736350.82 "like, AI is actually being used for good? They're, they're,"
+1791736351.65 "like, AI is actually being used for good? They're, they're, like, hiring, like, every software engineer in the world."
+1791736352.81 "like, AI is actually being used for good? They're, they're, like, targeting, like, every software. Oh, okay. Yeah, that too, but I'm talking about, like, how, like, a job software, the way they do different, the way they do, they do shit. I"
+1791736353.68 "like, AI is actually being used for good? They're, they're, like, targeting, like, every software. Oh, okay. Yeah, that too, but I'm talking about, like, how, like, a job software, the way they do different, the way they do, they do shit. I know, right? Yeah. No, I'm, like, talking about all of them, dude. Oh, like, shut up. I mean, like, one day, I was trying to talk to my friend about that. Yeah"
+1791736354.68 "like, AI is actually being used for good? They're, they're, like, targeting, like, every software. Oh, okay. Yeah, that too, but I'm talking about, like, how, like, a job software, the way they do different, the way they do, they do shit. I know, right? Yeah. No, I'm, like, talking about all of them, dude. Oh, like, shut up. I mean, like, one day, I was trying to, I was actually talking to someone about that. Yeah, me too, bro. It's so true, man. It's so true. Like, the computer's getting, uh, really smart. Yeah, I'm saying this photo"
+1791736355.69 "like, AI is actually being used for good? They're, they're, like, targeting, like, every software. Oh, okay. Yeah, that too, but I'm talking about, like, how, like, a job software, the way they do different, the way they do, they do shit. I know, right? Yeah. No, I'm, like, talking about all of them, dude. Oh, like, shut up. I mean, like, one day, I was trying to, I was actually talking to someone about that. Yeah, me too, bro. It's so true, man. It's so true. What, like, the computer game that, uh, you're using to set up a lot of people's, uh, status lines and, like, it'll be, like, an awful, slow, long, long, long time"
+1791736356.59 "like, AI is actually being used for good? They're, they're, like, targeting, like, every software. Oh, okay. Yeah, that too, but I'm talking about, like, how, like, a job software, the way they do different, the way they do, they do shit. I know, right? Yeah. No, I'm, like, talking about all of them, dude. Oh, like, shut up. I mean, like, one day, I was trying to, I was actually talking to someone about that. Yeah, me too, bro. It's so true, man. It's so true. What, like, the computer game that, uh, you're using to set up a lot of people's, uh, status lines and, like, it'll be, like, downfalls, so, like, on top of that, it's not happening. Let me see. What, like, the computer game that, uh, you're using to set up a lot of people's, uh, status lines"
+1791736357.50 "like, AI is actually being used for good? They're, they're,"
+1791736358.48 "like, AI is actually being used for good? They're, they're, like, targeting, like, every software. Oh, okay. Yeah, that too, but I'm talking about, like, how, like, a job software, the way they do different, the way they do music, too."
+1791736359.43 "like, AI is actually being used for good? They're, they're, like, targeting, like, every software. Oh, okay. Yeah, that too, but I'm talking about, like, how, like, a job software, the way they do different, the way they do, they do shit. I know, right? Yeah. No, I'm, like, talking about all of them, dude. Oh, like, shut up. I mean, like, one day, I was trying to, I"
+1791736360.46 "like, AI is actually being used for good? They're, they're, like, targeting, like, every software. Oh, okay. Yeah, that too, but I'm talking about, like, how, like, a job software, the way they do different, the way they do, they do shit. I know, right? Yeah. No, I'm, like, talking about all of them, dude. Oh, like, shut up. I mean, like, one day, I was trying to, I was actually talking to someone about that. Yeah, me too, bro. It's so true, man. It's so true. What, like, the computer game that, uh, you're using to set up a lot of people"
+1791736361.48 "like, AI is actually being used for good? They're, they're, like, targeting, like, every software. Oh, okay. Yeah, that too, but I'm talking about, like, how, like, a job software, the way they do different, the way they do, they do shit. I know, right? Yeah. No, I'm, like, talking about all of them, dude. Oh, like, shut up. I mean, like, one day, I was trying to, I was actually talking to someone about that. Yeah, me too, bro. It's so true, man. It's so true. What, like, the computer game that, uh, you're using to set up a lot of people's, uh, status lines and, like, it'll be, like, downfalls to the ones on the last time it happened. Oh, me too. What, like, the computer game that, uh, you're using to"
+1791736362.40 "like, AI is actually being used for good? They're, they're, like, targeting, like, every software. Oh, okay. Yeah, that too, but I'm talking about, like, how, like, a job software, the way they do different, the way they do, they do shit. I know, right? Yeah. No, I'm, like, talking about all of them, dude. Oh, like, shut up. I mean, like, one day, I was trying to, I was actually talking to someone about that. Yeah, me too, bro. It's so true, man. It's so true. What, like, the computer game that, uh, you're using to set up a lot of people's, uh, status lines and, like, it'll be, like, downfalls to the ones on the last time it happened. Oh, me too. What, like, the computer game that, uh, you're using to set up a lot of people's, uh, status lines and, like, it'll be, like, downfalls to the ones on the last time it happened. Oh, me too."
+1791736363.19 "like, AI is actually being used for good? They're, they're,"
+1791736364.18 "like, AI is actually being used for good? They're, they're, like, targeting, like, every software- No, no, no, yeah, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that"
+1791736365.17 "like, AI is actually being used for good? They're, they're,"
+1791736366.08 "like, AI is actually being used for good? They're, they're, like, targeting, like, every software- No, no, no, yeah, that's, like, that's, like, that's, like, that's, like, that's, like, that's, like, that"
+1791736366.84 "like, AI is actually being used for good? They're, they're,"
+1791736369.19 'like,'
+1791736369.90 'like,'
+1791736371.00 'like, helping people.'
+1791736371.82 "like, using it to, like, make this. Yeah, I think it's because it's, like, helping with the environment and everything."
+1791736372.84 "like, using it for, like, this. Yeah. I'm sure, I'm sure"
+1791736373.77 'uh,'
+1791736374.87 'like, uh, like, uh'
+1791736375.73 'like, uh, oh, yeah.'
+1791736376.75 'like, uh, like, uh'
+1791736377.77 "like, uh, oh, yeah. I'm just, I'm"
+1791736378.74 "like, uh, oh, yeah. I'm just thinking of the ground. Like, are, are these people"
+1791736379.68 "like, uh, oh, yeah. I'm just, I'm"
+1791736380.69 "like, uh, oh, yeah. I'm just, I'm just, uh, oh, yeah. I'm just, I'm just gonna, like, uh, okay, we should go, uh, we should go have a separate calendar. Yeah, let's do that."
+1791736381.39 "like, uh, oh, yeah. I'm just, I'm"
+1791736382.40 'like, uh, like, uh'
+1791736383.48 'like, uh, like, uh'
+1791736384.58 "like, uh, oh, yeah. I'm just, I'm"
+1791736385.38 "like, uh, oh, yeah. I'm just, I'm"
+1791736386.28 "like, uh, oh, yeah. I'm just, I'm"
+1791736387.38 "like, uh, oh, yeah. I'm just, I'm"
+1791736388.38 "like, uh, oh, yeah. I'm just, I'm just, uh, oh, yeah. I'm just, I'm just gonna, like, uh, okay, we should go, uh, we should go ahead and set the calendar. Yes. Oh, okay. Okay, now just"
+1791736389.08 "like, uh, oh, yeah. I'm just, I'm just, uh, oh, yeah. I'm just, I'm just gonna, like, uh, okay, we should go, uh, we should go ahead and set up a calendar. Yes. Oh, okay. Okay, now just put the small calendar. Yes, we're more- Okay, so there's another, um- Okay, I'm gonna wait for it. I wanna see what part"
+1791736390.18 "like, uh, oh, yeah. I'm just, I'm just, uh, oh, yeah. I'm just, I'm just gonna, like, uh, okay, we should go, uh, we should go ahead and set up a calendar. Yes. Oh, okay. Okay, now just put the small calendar. Yes, we're more- Okay, so there's another, um- Okay, I'm gonna wait for it. I wanna see what part of the conversation is actually gonna be here."
+1791736391.18 "like, uh, oh, yeah. I'm just, I'm just, uh, oh, yeah. I'm just, I'm just gonna, like, uh, okay, we should go, uh, we should go ahead and set up a calendar. Yes. Oh, okay. Okay, now just put the small calendar. Yes, we're more- Okay, so there's another, um- Okay, I'm gonna wait for it. I wanna see what part of the conversation, because I can see it here, honestly, I don't-"
+1791736392.20 "like, uh, oh, yeah. I'm just, I'm just, uh, oh, yeah. I'm just, I'm just gonna, like, uh, okay, we should go, uh, we should go ahead and set up a calendar. Yes. Oh, okay. Okay, now just put the small calendar. Yes, we're more- Okay, so there's another, um- Okay, I'm gonna wait for it. I wanna see what part of the conversation is actually gonna be here. Honestly, I don't really care."
+1791736392.88 "like, uh, oh, yeah. I'm just, I'm just, uh, oh, yeah. I'm just, I'm just gonna, like, uh, okay, we should go, uh, we should go ahead and set up a calendar. Yes. Oh, okay. Okay, now just put the small calendar. Yes, we're more- Okay, so there's another, um- Okay, I'm gonna wait for it. I wanna see what part of the conversation is actually gonna be here. Honestly, I don't really care."
+1791736394.08 "like, uh, oh, yeah. I'm just, I'm just, uh, oh, yeah. I'm just, I'm just gonna, like, uh, okay, we should go, uh, we should go ahead and set up a calendar. Yes. Oh, okay. Okay, now just put the small calendar. Yes, we're more- Okay, so there's another, um- Okay, I'm gonna wait for it. I wanna see what part of the conversation is actually gonna be here. Honestly, I don't really care."
+1791736394.25 "like, uh, oh, yeah. I'm just, I'm just, uh, oh, yeah. I'm just, I'm just gonna, like, uh, okay, we should go, uh, we should go ahead and set up a calendar. Yes. Oh, okay. Okay, now just put the small calendar. Yes, we're more- Okay, so there's another, um- Okay, I'm gonna wait for it. I wanna see what part of the conversation is actually gonna be here. Honestly, I don't really care."
+1791736397.68 ''
+1791736401.91 "I don't care. I don't"
+1791736402.75 "I don't care. I don't"
+1791736403.98 "I don't care. I don't"
+1791736404.68 "I don't care. I don't"
+1791736406.88 ''
+1791736411.45 "I feel like . Yeah, yeah. I'm just gonna touch"
+1791736413.48 'I feel like . Yeah, yeah.'
+1791736414.18 'I feel like . Yeah, yeah.'
+1791736416.39 'I feel like . Yeah. Oh, okay. Oh.'
+1791736417.19 "I feel like this is gonna happen. Yeah. It's gonna touch on it. Okay. Oh, that's interesting."

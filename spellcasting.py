@@ -216,9 +216,7 @@ class SpellRecognizer:
                 audio_format=AudioFormat.PCM_48000,
                 sample_rate=self.SAMPLE_RATE,
                 commit_strategy=CommitStrategy.VAD,
-                language_code="en-US",
-            ),
-            keyterms=[spell["word"] for spell in self.SPELLS.values()]
+            )
         )
 
         def on_session_started(data):
